@@ -2,6 +2,10 @@
 
 ## Title: Energy map exploration of buildings in the city of Seattle
 
+Group Members:
+Ninad Bandewar
+Jeffrey Na
+
 * **Link to video**: https://drive.google.com/file/d/1__EateuDJxnN5tKiUlrXCG1uegbMyDP9/view
 
 ![SummaryImage.PNG](https://raw.githubusercontent.com/CMU-IDS-Fall-2022/final-project-the-viz-kids/main/SummaryImage.PNG)
