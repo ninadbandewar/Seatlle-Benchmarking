@@ -3,7 +3,7 @@
 ## Title: Energy map exploration of buildings in the city of Seattle
 
 Group Members:
-Ninad Bandewar, Jeffrey Na
+Ninad Bandewar, Jeffrey Na, Aditi Kanaujia, Pragnya Sridhar, Nikita Khatwani
 
 * **Link to video**: https://drive.google.com/file/d/1__EateuDJxnN5tKiUlrXCG1uegbMyDP9/view
 
